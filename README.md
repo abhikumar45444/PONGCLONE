@@ -21,12 +21,10 @@
 ```
 
 ## HOW-TO-PLAY
-```console
-Player-1 controls:
-$ press 'W' to move UP
-$ press 'S' to move DOWN
+|keys|description|
+|---|---|
+|Player-1|
+|<kbd>W</kbd>/<kbd>S</kbd>|move Racket UP/DOWN|
+|Player-2|
+|<kbd>↓</kbd>/<kbd>↑</kbd>|move Racket UP/DOWN|
 
-Player-2 controls:
-$ press 'UP' to move UP
-$ press 'DOWN' to move DOWN
-```
