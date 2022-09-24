@@ -1,6 +1,8 @@
 # PONG GAME
 
  A classical simulation game of table tennis in 2-D made with Unity.  
+ 
+ ![thumbnail](./GamePlay.png)
 
 ## DESCRIPTION
  Pong is a two-dimensional sports game that simulates table tennis.
