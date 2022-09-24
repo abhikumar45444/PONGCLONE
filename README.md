@@ -9,6 +9,9 @@
  Players use the paddles to hit a ball back and forth. 
  The goal is for each player to reach eleven points before the opponent, points are earned when one fails to return the ball to the other.
 
+## INSTALLATION
+ Install the PONGGAME Setup(x86).exe file.
+
 ## MODES: 2-Players and Vs Computer
 ```console 
  In 2-player mode play with your friends.
