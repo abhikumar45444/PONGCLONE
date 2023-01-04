@@ -12,7 +12,7 @@
  The goal is for each player to reach eleven points before the opponent, points are earned when one fails to return the ball to the other.
 
 ## INSTALLATION
- Install the PONGGAME Setup(x86).exe file.
+ Install the [PONGGAME Setup(x86).exe](https://github.com/abhikumar45444/PONGCLONE/blob/main/Builds/Windows/Installer/PONGGAME%20Setup(x86).exe) file.
 
 ## MODES: 2-Players and Vs Computer
 ```console 
